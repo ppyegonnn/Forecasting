@@ -162,11 +162,3 @@ elif page == "Reorder Alerts":
 ```
 
 ---
-
-Now make sure your folder looks like this:
-```
-your-folder/
-├── app.py
-├── reorder_report.csv
-├── weekly_demand.csv
-└── forecasts.csv
